@@ -1,2 +1,3 @@
 # Retrieval-Augmented-Generation-with-Llama-2
-Retrieval Augmented Generation with Llama-2-7B-Chat-GGML
+![RAG](https://github.com/rajdas2001/Retrieval-Augmented-Generation-with-Llama-2/blob/main/rag.png)
+
