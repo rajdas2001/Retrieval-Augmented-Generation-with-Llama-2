@@ -4,3 +4,17 @@
 
 ## Dataset Used:
 https://www.kaggle.com/datasets/lusfernandotorres/wikipedia-crypto-articles?resource=download
+
+## Dependencies
+* python
+* pandas
+* numpy
+* ydata-profiling
+* ctransformers
+* langchain
+* chromadb
+* streamlit
+* sentence-transformers
+* bitsandbytes
+* torch
+* transformers
